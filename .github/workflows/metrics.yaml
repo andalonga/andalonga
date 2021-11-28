@@ -25,3 +25,4 @@ jobs:
           plugin_habits: yes
           plugin_achievements: yes
           plugin_lines: yes
+          plugin_achievements_threshold: X
